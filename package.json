@@ -1,0 +1,21 @@
+{
+  "name": "open-file-text-editor",
+  "version": "0.0.1",
+  "description": "Open file in text-editor windows, linux, darwin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "text",
+    "editor",
+    "open",
+    "cross",
+    "platform"
+  ],
+  "author": "Alfred Westerveld",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1"
+  }
+}
